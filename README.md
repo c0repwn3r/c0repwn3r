@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there!
+## I'm coredoescode, also known as core!
+I write a lot of things, such as auto-pizza-ordering-programs for you programmers.
 
 <!--
 **coredoescode/coredoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
