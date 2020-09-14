@@ -4,6 +4,8 @@ I write a lot of things, such as auto-pizza-ordering-programs for you programmer
 
 I also made SVA, the worst data storage standard ever.
 
+My currently active project is ACG.js, a code protection utility for node.js, written in node.js.
+
 <!--
 **coredoescode/coredoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
