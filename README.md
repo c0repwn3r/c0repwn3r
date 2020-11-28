@@ -1,10 +1,18 @@
 ### Hey there!
 ## I'm coredoescode, also known as core!
-I write a lot of things, such as auto-pizza-ordering-programs for you programmers.
 
-I also made SVA, the worst data storage standard ever.
+Pronouns: He/His
 
-My currently active project is ACG.js, a code protection utility for node.js, written in node.js.
+I'm a programmer and a current developer @ OlivMC.
+I also enjoy doing things on my own.
+
+I'm currently working on RWCMP (remote windows computer managment protocol), a way to remotley manage Windows machines.
+
+I'm learning x86 Assembly - a great language to understand how computers work.
+
+You can find me at coredoescode@gmail.com or my website, coresdev.ml.
+
+Fun fact: I love minecraft!
 
 <!--
 **coredoescode/coredoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
