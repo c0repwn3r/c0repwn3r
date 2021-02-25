@@ -1,8 +1,8 @@
 ### Hey there!
 ## I'm coredoescode, also known as core!
 
-[![Core's GitHub stats](https://github-readme-stats.vercel.app/api?username=coredoescode&&theme==dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coredoescode&&theme==dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Core's GitHub stats](https://github-readme-stats.vercel.app/api?username=coredoescode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coredoescode&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Pronouns: He/His
 
