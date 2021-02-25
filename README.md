@@ -9,7 +9,7 @@ Pronouns: He/His
 I'm a programmer and a current developer @ Unemployed..
 I also enjoy doing things on my own.
 
-I'm currently working on RWCMP (remote windows computer managment protocol), a way to remotley manage Windows machines.
+I'm currently working on blackf8, a windows 10 exploit.
 
 I'm learning x86 Assembly - a great language to understand how computers work.
 
