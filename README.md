@@ -20,16 +20,16 @@ Fun fact: I love minecraft!
 
 My PC specs:
 
-Processor: Ryze 5 3600
-GPU: GTX 1660 (Getting an upgrade soon!)
-RAM: 32 gb
-SSD: 220 GB
-HDD: 900 GB
-OS: Arch Linux
-WM: AwesomeWM
-Dotfiles: Not public
-Editor: NeoVim
-File Manager: Console, currently
+- Processor: Ryzen 5 3600
+- GPU: GTX 1660 (Getting an upgrade soon!)
+- RAM: 32 gb
+- SSD: 220 GB
+- HDD: 900 GB
+- OS: Arch Linux
+- WM: AwesomeWM
+- Dotfiles: Not public
+- Editor: NeoVim
+- File Manager: Console, currently
 
 
 <!--
