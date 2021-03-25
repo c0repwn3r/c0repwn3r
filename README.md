@@ -6,12 +6,14 @@
 
 Pronouns: He/His
 
-I'm a programmer and a current developer @ Unemployed..
+I'm a programmer and a current developer @ StarKingdoms.tk.
 I also enjoy doing things on my own.
 
 I'm currently working on blackf8, a windows 10 exploit.
 
-I'm learning x86 Assembly - a great language to understand how computers work.
+I'm learning Rust - A nice little functional programming language.
+
+My current project is updating and publicizing [SDL](https://github.com/coredoescode/sdl), a data serialization library that I created.
 
 You can find me at coredoescode@gmail.com or my website, coresdev.ml.
 
