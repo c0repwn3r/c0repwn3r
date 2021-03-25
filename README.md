@@ -14,8 +14,23 @@ I'm learning Rust - A nice little functional programming language.
 My current project is updating and publicizing [SDL](https://github.com/coredoescode/sdl), a data serialization library that I created.
 
 You can find me at coredoescode@gmail.com or my website, coresdev.ml.
+You can also add me on discord, core#8531.
 
 Fun fact: I love minecraft!
+
+My PC specs:
+
+Processor: Ryze 5 3600
+GPU: GTX 1660 (Getting an upgrade soon!)
+RAM: 32 gb
+SSD: 220 GB
+HDD: 900 GB
+OS: Arch Linux
+WM: AwesomeWM
+Dotfiles: Not public
+Editor: NeoVim
+File Manager: Console, currently
+
 
 <!--
 **coredoescode/coredoescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
