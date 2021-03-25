@@ -16,6 +16,8 @@ My current project is updating and publicizing [SDL](https://github.com/coredoes
 You can find me at coredoescode@gmail.com or my website, coresdev.ml.
 You can also add me on discord, core#8531.
 
+My PGP key: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x1564b84c475fab06
+
 Fun fact: I love minecraft!
 
 My PC specs:
